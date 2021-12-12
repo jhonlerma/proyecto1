@@ -1,3 +1,6 @@
 main cambio 1
 main cambio 2
 main cambio 3
+bugfix cambio 1
+bugfix cambio 2
+bugfix cambio 3
