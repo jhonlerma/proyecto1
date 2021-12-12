@@ -1,8 +1,1 @@
-esta es una prueba de git
-
-esta es una version cambiada mediante chekout
-y recuperada mediante reset hard y reflog
-cambios en master 2
-ahora cambios 3 en master
-para ver si se puede hacer un rebase
-lol
+main cambio 1
