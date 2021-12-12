@@ -1,11 +1,1 @@
-esta es una prueba de git
-
-esta es una version cambiada mediante chekout
-y recuperada mediante reset hard y reflog
-cambios en master 2
-ahora cambios 3 en master
-para ver si se puede hacer un rebase
-lol
-le hice un cambio colocandome desde cada rama y agregando un
-salto de linea en cada rama
-ahora comentario desde bugfix1
+bugfix cambio 1
