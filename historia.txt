@@ -2,3 +2,4 @@ esta es una prueba de git
 
 esta es una version cambiada mediante chekout
 y recuperada mediante reset hard y reflog
+cambios en master 2
