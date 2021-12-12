@@ -6,3 +6,5 @@ cambios en master 2
 ahora cambios 3 en master
 para ver si se puede hacer un rebase
 lol
+le hice un cambio colocandome desde cada rama y agregando un
+salto de linea en cada rama
